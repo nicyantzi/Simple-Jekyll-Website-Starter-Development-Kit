@@ -1,0 +1,3 @@
+name: Nic Yantzi
+exclude: ["node_modules","gulpfile.js","package.json","_pugfiles"]
+baseurl: /Simple-Jekyll-Website-Starter-Kit
