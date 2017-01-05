@@ -418,3 +418,9 @@ body {
   background: #154360;
   color: white;
   padding: 10px 45px; }
+  .home-wrap .span {
+    font-weight: bold; }
+  .home-wrap a {
+    color: white; }
+  .home-wrap a:active, .home-wrap a:focus {
+    color: white; }
